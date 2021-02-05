@@ -5,7 +5,7 @@ using System.Collections;
 public class BulletScript : MonoBehaviour {
 
 	[Range(5, 100)]
-	[Tooltip("After how long time should the bullet prefab be destroyed?")]
+	[Tooltip("After how long in time should the bullet be destroyed?")]
 	public float destroyAfter;
 	[Tooltip("If enabled the bullet destroys on impact")]
 	public bool destroyOnImpact = false;

@@ -190,7 +190,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Username
+  m_Text: 'Select a username:'
 --- !u!222 &59946142
 CanvasRenderer:
   m_ObjectHideFlags: 0
